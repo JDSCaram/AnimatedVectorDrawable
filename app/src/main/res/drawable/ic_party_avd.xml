@@ -1,0 +1,133 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:name="vector"
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="492"
+            android:viewportHeight="492">
+            <group
+                android:name="fita_1"
+                android:translateY="460">
+                <path
+                    android:name="path_2"
+                    android:pathData="M 388.488 89.637 C 388.614 72.221 376.202 58.326 370.556 42.635 C 368.467 36.825 360.858 33.753 356.125 38.825 C 347.906 47.629 348.457 56.792 354.121 67.324 C 357.145 72.949 362.511 78.021 364.314 84.263 C 367.644 95.81 359.807 102.445 355.576 111.81 C 348.055 128.467 355.52 148.431 374.795 150.737 C 380.078 151.369 381.119 144.656 378.634 141.466 C 365.845 125.057 388.356 108.083 388.488 89.637 Z"
+                    android:fillColor="#ccffaa"/>
+            </group>
+            <group
+                android:name="fita_2"
+                android:translateX="-250">
+                <path
+                    android:name="path"
+                    android:pathData="M 388.488 89.637 C 388.614 72.221 376.202 58.326 370.556 42.635 C 368.467 36.825 360.858 33.753 356.125 38.825 C 347.906 47.629 348.457 56.792 354.121 67.324 C 357.145 72.949 362.511 78.021 364.314 84.263 C 367.644 95.81 359.807 102.445 355.576 111.81 C 348.055 128.467 355.52 148.431 374.795 150.737 C 380.078 151.369 381.119 144.656 378.634 141.466 C 365.845 125.057 388.356 108.083 388.488 89.637 Z"
+                    android:fillColor="#ff9800"/>
+            </group>
+            <group
+                android:name="fita_3"
+                android:translateX="-110">
+                <path
+                    android:name="path_1"
+                    android:pathData="M 388.488 89.637 C 388.614 72.221 376.202 58.326 370.556 42.635 C 368.467 36.825 360.858 33.753 356.125 38.825 C 347.906 47.629 348.457 56.792 354.121 67.324 C 357.145 72.949 362.511 78.021 364.314 84.263 C 367.644 95.81 359.807 102.445 355.576 111.81 C 348.055 128.467 355.52 148.431 374.795 150.737 C 380.078 151.369 381.119 144.656 378.634 141.466 C 365.845 125.057 388.356 108.083 388.488 89.637 Z"
+                    android:fillColor="#9c27b0"/>
+            </group>
+            <path
+                android:name="mascara_esquerda"
+                android:pathData="M 262.651 207.18 C 256.985 149.62 235.355 100.332 234.438 98.262 C 232.43 93.736 228.292 90.509 223.412 89.669 C 218.529 88.827 213.552 90.481 210.146 94.076 C 179.452 126.456 151.416 145.264 121.915 153.266 C 92.423 161.268 59.821 158.976 19.316 146.05 C 14.53 144.523 9.297 145.526 5.416 148.711 C 1.533 151.897 -0.47 156.831 0.093 161.823 C 0.347 164.073 6.587 217.536 30.781 270.068 C 64.389 343.042 116.094 378.187 180.304 371.708 C 181.112 371.628 181.911 371.479 182.693 371.269 C 183.475 371.057 184.241 370.781 184.98 370.442 C 243.664 343.588 270.522 287.133 262.651 207.18 Z M 43.808 219.902 C 42.923 207.852 58.21 196.907 77.951 195.457 C 97.692 194.005 114.415 202.596 115.301 214.646 C 116.187 226.696 100.405 230.891 80.664 232.34 C 60.92 233.793 44.695 231.952 43.808 219.902 Z M 169.943 324.258 C 133.47 334.151 99.357 325.408 93.75 304.733 C 93.351 303.257 93.123 301.759 93.027 300.251 C 110.835 307.798 136.772 308.819 163.769 301.497 C 190.766 294.175 212.632 280.186 224.186 264.677 C 224.867 266.029 225.429 267.435 225.828 268.911 C 231.435 289.584 206.415 314.366 169.943 324.258 Z M 200.541 199.827 C 182.772 208.549 167.034 212.903 161.71 202.058 C 156.385 191.211 166.476 175.348 184.244 166.625 C 202.015 157.902 220.733 159.623 226.058 170.469 C 231.384 181.317 218.311 191.104 200.541 199.827 Z"
+                android:fillColor="#000"
+                android:strokeWidth="1"/>
+            <path
+                android:name="marcara_direita"
+                android:pathData="M 489.815 222.972 C 486.961 218.923 482.269 216.574 477.32 216.704 C 432.72 217.885 399.598 211.352 373.084 196.143 C 346.576 180.94 325.149 156.261 305.657 118.476 C 303.354 114.011 298.947 111.019 293.948 110.525 C 288.952 110.032 284.043 112.103 280.912 116.029 C 280.253 116.856 272.61 126.511 262.61 142.093 C 266.311 155.154 269.922 170.156 272.622 186.217 C 281.31 179.365 298.268 182.872 312.165 194.872 C 327.147 207.807 332.893 225.709 324.996 234.853 C 317.099 243.997 302.975 235.801 287.992 222.864 C 283.368 218.872 279.206 214.894 275.888 211.036 C 278.981 244.036 276.586 273.776 268.766 299.805 C 280.954 301.345 294.493 305.884 307.644 313.425 C 340.423 332.229 358.355 362.535 347.696 381.117 C 346.936 382.445 346.038 383.662 345.038 384.798 C 337.786 366.869 320.173 347.803 295.909 333.883 C 284.388 327.277 272.631 322.571 261.402 319.727 C 260.856 320.952 260.301 322.17 259.728 323.375 C 252.718 338.107 243.722 351.179 232.815 362.535 C 240.03 373.228 249.045 383.027 259.857 391.861 C 260.487 392.377 261.158 392.836 261.859 393.24 C 262.563 393.643 263.299 393.989 264.061 394.273 C 324.54 416.795 383.457 395.884 434.442 333.794 C 471.146 289.097 490.716 238.954 491.535 236.843 C 493.315 232.226 492.672 227.019 489.815 222.972 Z M 434.538 281.964 C 430.63 293.397 414.468 291.07 395.734 284.668 C 377.005 278.269 362.798 270.215 366.706 258.781 C 370.614 247.347 388.967 243.269 407.695 249.671 C 426.429 256.073 438.444 270.532 434.538 281.964 Z"
+                android:fillColor="#000"
+                android:strokeWidth="1"/>
+        </vector>
+    </aapt:attr>
+    <target android:name="mascara_esquerda">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="fillColor"
+                    android:duration="502"
+                    android:valueFrom="#000"
+                    android:valueTo="#ffaaff"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:startOffset="502"
+                    android:duration="1498"
+                    android:valueFrom="#ffffff"
+                    android:valueTo="#000000"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="marcara_direita">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="fillColor"
+                    android:duration="502"
+                    android:valueFrom="#000"
+                    android:valueTo="#03a9f4"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:startOffset="502"
+                    android:duration="1498"
+                    android:valueFrom="#ffffff"
+                    android:valueTo="#000000"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="fita_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="translateY"
+                android:duration="700"
+                android:valueFrom="460"
+                android:valueTo="-200"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="fita_2">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="translateY"
+                android:duration="998"
+                android:valueFrom="460"
+                android:valueTo="-200"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="fita_3">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="translateY"
+                android:duration="1518"
+                android:valueFrom="460"
+                android:valueTo="-200"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="path_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="fillAlpha"
+                android:duration="800"
+                android:valueFrom="0"
+                android:valueTo="1"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+</animated-vector>

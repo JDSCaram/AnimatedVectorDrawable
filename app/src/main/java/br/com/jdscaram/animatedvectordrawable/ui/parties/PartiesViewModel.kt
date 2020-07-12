@@ -1,13 +1,13 @@
-package br.com.jdscaram.animatedvectordrawable.ui.dashboard
+package br.com.jdscaram.animatedvectordrawable.ui.parties
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class DashboardViewModel : ViewModel() {
+class PartiesViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is dashboard Fragment"
+        value = "Cheer up the party has started"
     }
     val text: LiveData<String> = _text
 }

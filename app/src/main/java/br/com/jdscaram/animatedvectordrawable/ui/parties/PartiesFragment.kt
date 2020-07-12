@@ -1,4 +1,4 @@
-package br.com.jdscaram.animatedvectordrawable.ui.home
+package br.com.jdscaram.animatedvectordrawable.ui.parties
 
 import android.graphics.drawable.AnimatedVectorDrawable
 import android.os.Bundle
@@ -12,9 +12,9 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import br.com.jdscaram.animatedvectordrawable.R
 
-class HomeFragment : Fragment() {
+class PartiesFragment : Fragment() {
 
-    private lateinit var homeViewModel: HomeViewModel
+    private lateinit var partiesViewModel: PartiesViewModel
     lateinit var imageView: ImageView
 
     override fun onCreateView(
@@ -22,12 +22,12 @@ class HomeFragment : Fragment() {
             container: ViewGroup?,
             savedInstanceState: Bundle?
     ): View? {
-        homeViewModel =
-                ViewModelProviders.of(this).get(HomeViewModel::class.java)
-        val root = inflater.inflate(R.layout.fragment_home, container, false)
-        val textView: TextView = root.findViewById(R.id.text_home)
+        partiesViewModel =
+                ViewModelProviders.of(this).get(PartiesViewModel::class.java)
+        val root = inflater.inflate(R.layout.fragment_parties, container, false)
+        val textView: TextView = root.findViewById(R.id.text_parties)
         imageView = root.findViewById(R.id.image)
-        homeViewModel.text.observe(viewLifecycleOwner, Observer {
+        partiesViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
         })
         return root
