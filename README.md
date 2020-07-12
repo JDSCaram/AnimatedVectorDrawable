@@ -7,8 +7,7 @@ Sample project using AnimatedVectorDrawable created by me.
 
 ### Example:
 
-[Alt text](https://github.com/JDSCaram/AnimatedVectorDrawable/blob/master/image/avd_project.gif "avd")
-
+![image](https://github.com/JDSCaram/AnimatedVectorDrawable/blob/master/image/avd_project.gif "avd")
 
 ## License
 Copyright 2020 JONATAS CARAM 
